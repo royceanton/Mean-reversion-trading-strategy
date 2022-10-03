@@ -1,5 +1,7 @@
-# Mean-reversion-trading-strategy
-An implementation of mean reversion trading strategy using classic TA indicators modified with EOT filter.
+# Mean reversion trading strategy
+An implementation of mean reversion trading strategy using classic TA indicators modified with EOT filter. Signals generated and visualised using Pandas and Matplotlib
+
+![Image](https://user-images.githubusercontent.com/106367095/193515014-35f58426-c75f-4619-a7cc-44bcce7927d5.png)
 
 ## Requirements
 
