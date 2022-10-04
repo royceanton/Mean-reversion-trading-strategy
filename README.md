@@ -28,3 +28,6 @@ Six Candlestick strategy
 ## Data Analysis Report
 
 [Mean Reversion trading strategy](https://jovian.ai/ranton95/ranton-mean-reversion-study-1)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=royceanton.Mean-reversion-trading-strategy)
